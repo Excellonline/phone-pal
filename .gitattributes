@@ -1,0 +1,17 @@
+*.md text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.frag text eol=lf
+
+*.apk binary
+*.aab binary
+*.exe binary
+*.dll binary
+*.lib binary
+*.exp binary
+*.so binary
+*.dat binary
+*.bin binary
+*.otf binary
+*.ttf binary
+*.Z binary

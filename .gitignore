@@ -1,0 +1,32 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Local environment and secrets
+.env
+.env.*
+*.keystore
+*.jks
+*.p12
+*.pem
+google-services.json
+GoogleService-Info.plist
+
+# Flutter/source build outputs if source is added later
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.packages
