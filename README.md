@@ -4,13 +4,16 @@ PhonePal is a personal notes and checklists app for Android and Windows. It is b
 
 This repository currently hosts release builds for PhonePal.
 
+Latest release: [PhonePal 0.1.0](https://github.com/Excellonline/phone-pal/releases/tag/v0.1.0)
+
 ## Downloads
 
 | Platform | Release file | Use this when |
 | --- | --- | --- |
 | Android APK | `releases/android/PhonePal-Android-0.1.0.apk` | You want to sideload PhonePal directly onto an Android phone. |
 | Android AAB | `releases/android/PhonePal-Android-0.1.0.aab` | You need the Play Store / app bundle build. |
-| Windows | `releases/windows/PhonePal-Windows-0.1.0/phonepal.exe` | You want to run the Windows desktop build. Keep the whole folder together. |
+| Windows ZIP | [PhonePal-Windows-0.1.0.zip](https://github.com/Excellonline/phone-pal/releases/tag/v0.1.0) | You want the easiest Windows download. |
+| Windows folder | `releases/windows/PhonePal-Windows-0.1.0/phonepal.exe` | You are browsing the committed release files directly. Keep the whole folder together. |
 
 ## Features
 
@@ -33,9 +36,9 @@ This repository currently hosts release builds for PhonePal.
 
 ### Windows
 
-1. Download this repository as a ZIP from GitHub.
+1. Download `PhonePal-Windows-0.1.0.zip` from the latest GitHub release.
 2. Extract the ZIP.
-3. Open `releases/windows/PhonePal-Windows-0.1.0/`.
+3. Open `PhonePal-Windows-0.1.0/`.
 4. Run `phonepal.exe`.
 
 Do not move `phonepal.exe` out of its folder. The DLLs, Flutter runtime, and `data/` directory are part of the Windows app bundle.
